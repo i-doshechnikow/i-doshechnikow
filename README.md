@@ -66,3 +66,5 @@ Markdown     35 mins         ████░░░░░░░░░░░░░
 Mustache     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Spotify](https://director.vercel.app/api/spotify)](https://open.spotify.com/user/director)
