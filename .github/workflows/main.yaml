@@ -1,32 +1,15 @@
-name: README build
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: "10 17 * * *"
 
 jobs:
-  build:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v2
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
+      - uses: athul/waka-readme@master
         with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA }}
