@@ -27,5 +27,5 @@ jobs:
         run: node index.js
       - name: Commit and Push new README.md to the repository
         uses: ad-m/github-push-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
