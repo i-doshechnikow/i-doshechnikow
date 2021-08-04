@@ -59,5 +59,10 @@ Now I am actively looking for an open source project that would be useful.
 ### My Activity
 
 <!--START_SECTION:waka-->
-
+```text
+YAML         1 hr 48 mins    ████████████▒░░░░░░░░░░░░   49.83 % 
+JavaScript   55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.28 % 
+Markdown     35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Mustache     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+```
 <!--END_SECTION:waka-->
