@@ -67,4 +67,6 @@ Mustache     18 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+## :notes: I'm listening now
+
 [![Spotify](https://novatorem-director.vercel.app/api/spotify)](https://open.spotify.com/user/g57wh52ozj8sd4azit43jnzed)
