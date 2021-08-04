@@ -1,0 +1,23 @@
+{
+  "name": "i-doshechnikow",
+  "version": "1.0.0",
+  "description": "<!--\r **i-doshechnikow/i-doshechnikow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-doshechnikow/i-doshechnikow.git"
+  },
+  "author": "i-doshechnikow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-doshechnikow/i-doshechnikow/issues"
+  },
+  "homepage": "https://github.com/i-doshechnikow/i-doshechnikow#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mustache": "^4.2.0"
+  }
+}
