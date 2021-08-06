@@ -60,11 +60,11 @@ Now I am actively looking for an open source project that would be useful.
 
 <!--START_SECTION:waka-->
 ```text
-YAML         2 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.49 % 
-JavaScript   2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.91 % 
-Markdown     1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Mustache     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+YAML         2 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 % 
+JavaScript   2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+CSS          1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Markdown     1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+HTML         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 <!--END_SECTION:waka-->
 
