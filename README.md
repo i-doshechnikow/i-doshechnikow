@@ -60,11 +60,11 @@ Now I am actively looking for an open source project that would be useful.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 13 mins  ████████████████████░░░░░   80.14 % 
-CSS          1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JSX          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript   10 hrs 30 mins  ██████████████████▓░░░░░░   74.81 % 
+CSS          2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+JSX          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+HTML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 
