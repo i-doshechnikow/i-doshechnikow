@@ -60,9 +60,9 @@ Now I am actively looking for an open source project that would be useful.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 mins         ██████████████░░░░░░░░░░░   55.38 % 
-INI          7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
-JSON         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+JavaScript   13 mins         ██████████████▓░░░░░░░░░░   58.19 % 
+INI          7 mins          ████████░░░░░░░░░░░░░░░░░   32.62 % 
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 <!--END_SECTION:waka-->
 
