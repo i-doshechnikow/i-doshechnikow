@@ -61,9 +61,8 @@ Now I am actively looking for an open source project that would be useful.
 <!--START_SECTION:waka-->
 ```text
 JavaScript   17 mins         ███████████░░░░░░░░░░░░░░   43.98 % 
-CSS          11 mins         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-INI          7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+CSS          11 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+INI          7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 % 
 JSX          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
