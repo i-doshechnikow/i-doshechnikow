@@ -7,11 +7,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=i-doshehnikow.i-doshehnikow)
 <br />
 
-Hi everyone! My name is Ilya and I am a web developer, now I work in a fullstask position and love my job. My passion is development. 
+Hi everyone! My name is Ilya and I am a web developer, now I work in a frontend position and love my job. My passion is development. 
 I love to invent something new and implement it (especially if it's beautiful). I try to get as much experience as possible and correct mistakes that have been in the past.
-
-Now I am actively looking for an open source project that would be useful.
-
 
   <img align="right" alt="GIF" src="https://github.com/i-doshechnikow/i-doshechnikow/blob/main/code.gif?raw=true" width="500" height="320" />
 
