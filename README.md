@@ -51,11 +51,11 @@ I love to invent something new and implement it (especially if it's beautiful). 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.81 % 
-HTML         1 hr 47 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
-CSS          1 hr 44 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.78 % 
-TypeScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JavaScript   2 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.19 % 
+HTML         1 hr 53 mins    ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+CSS          1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.70 % 
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+TypeScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 <!--END_SECTION:waka-->
 
