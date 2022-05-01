@@ -29,7 +29,6 @@ I love to invent something new and implement it (especially if it's beautiful). 
 ### Frameworks, Platforms and Libraries
 
 <p>
-    <img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
     <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white">
@@ -60,7 +59,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## :notes: I'm listening now
-
-[![Spotify](https://novatorem-director.vercel.app/api/spotify)](https://open.spotify.com/user/g57wh52ozj8sd4azit43jnzed)
