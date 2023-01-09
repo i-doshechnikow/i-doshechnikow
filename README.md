@@ -51,7 +51,9 @@ I love to invent something new and implement it (especially if it's beautiful). 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SCSS         59 mins         ██████████████▒░░░░░░░░░░   57.02 %
+TypeScript   43 mins         ██████████▒░░░░░░░░░░░░░░   41.70 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
